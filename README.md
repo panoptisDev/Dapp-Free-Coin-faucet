@@ -1,5 +1,7 @@
 ## PandaCoin (PAC) is an ERC20 Token
 
+![alt text](https://iili.io/H89Ny0u.png)
+
 You can request a max of 10 PandaCoin (PAC) at a time.
 Anyone can request PandaCoin (PAC) for Free, it'll automatically being sent to your wallet from Kausik's wallet.
 
